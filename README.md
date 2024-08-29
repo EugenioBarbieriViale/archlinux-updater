@@ -1,0 +1,1 @@
+# weekly-archlinux-updater
